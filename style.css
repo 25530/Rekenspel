@@ -1,0 +1,59 @@
+body{
+    font-family: Trattatello, fantasy;
+    color: violet;
+    font-size: 50px;
+    text-shadow: 1px 1px #ac4daf;
+    background-image: url("images/back.jpg");
+    background-size:cover;
+    background-repeat: repeat;
+    background-size: 100%;
+}
+
+.wrapper {
+    margin: auto;
+    width: 30%;
+    border: 9px ridge #005800;
+    padding: 10px;
+    text-align: center;
+    background-color: #ffffcc;
+    border-radius: 25px;
+    
+}
+.wrapper img{
+		align-content: center;
+		max-width: 100%;
+		display: block;
+        height: auto;
+}
+.Rood {
+    color: rgb(211, 9, 9);
+}
+.Oranje {
+    color: rgb(250, 121, 16);
+}
+.Geel {
+    color: rgb(247, 210, 0);
+}
+.Groen {
+    color: rgb(54, 245, 16);
+}
+.Blauw {
+    color: rgb(0, 183, 255);
+}
+.Indigo {
+    color: rgb(0, 21, 209);
+}
+.Paars {
+    color: rgb(116, 0, 211);
+}
+.Magenta {
+    color: rgb(215, 166, 255);
+}
+.Blaars{
+    color: rgb(98, 0, 255);
+}
+
+#myAnswer{
+    width:80px;
+    height: 40px;
+}
